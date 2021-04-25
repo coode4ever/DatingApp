@@ -1,10 +1,10 @@
 ## Dating App
 
 **Screenshot 1**
-![Screenshot 1](/screenshots/1.png?raw=true 'Home Screen')
+<img src="/screenshots/1.png" alt="drawing" width="300"/>
 
 **Screenshot 2**
-![Screenshot 2](/screenshots/2.png?raw=true 'Preview Screen')
+<img src="/screenshots/2.png" alt="drawing" width="300"/>
 
 #### Credit and Inspired By
 
